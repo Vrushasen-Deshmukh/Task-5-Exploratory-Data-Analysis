@@ -1,6 +1,10 @@
-# Exploratory Data Analysis Of Titanic Ship Crew
+# TASK 5 OF INTERNSHIP BY ELEVATE LABS
 
-•	Task 5: Exploratory Data Analysis (EDA)  
+# Exploratory Data Analysis (EDA)
+
+# Titanic Passenger Data
+
+•	Task 5:  
 •	Objective: Extract insights using visual and statistical exploration. 
  
 ABOUT THE DATA: 
